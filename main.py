@@ -3,7 +3,7 @@
 
 import openai
 
-openai.api_key ="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"
+openai.api_key ="<Key>"
 
 prompt = '{}'.format(input('Please enter a command --> '))
 
