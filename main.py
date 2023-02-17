@@ -1,8 +1,9 @@
 # export OPENAI_API_KEY="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"
+# export OPENAI_API_KEY= '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'
 
 import openai
 
-openai.api_key ="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"
+openai.api_key ="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"
 
 prompt = '{}'.format(input('Please enter a command --> '))
 
